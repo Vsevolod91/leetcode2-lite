@@ -1,1 +1,1 @@
-# homework2-lite
+# leetcode2-lite
